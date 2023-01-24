@@ -39,16 +39,10 @@ export const Titlebar: FC = () => {
 				/>
 			</div>
 			<div className="app-name-container select-none">
-				<p>Timmy Macro</p>
+				<p>Timmy Macro v1.0.2</p>
 			</div>
 			<div className="window-controls-container">
-				<button
-					title="Test"
-					className="minimize-button focus:outline-none hover:bg-gray-700"
-					onClick={onMinimize}
-				>
-					<IoAlarm />
-				</button>
+
 				<button
 					title="Minimize"
 					className="minimize-button focus:outline-none hover:bg-gray-700"

@@ -1,8 +1,8 @@
 {
-	"name": "electron-timmy macro",
+	"name": "electron-timmy",
 	"description": "Electron Timmy Macro",
 	"license": "GPL-3.0",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"private": true,
 	"devDependencies": {
 		"@types/node": "^18.11.10",
